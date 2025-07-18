@@ -1,0 +1,15 @@
+.recipe_title {
+    text-align: center;
+    color: #274B34;
+}
+#recipe {
+    display: flex;
+    padding: 20px;
+}
+.left_side, .right_side {
+    width: 50%;
+}
+.image {
+    width: auto;
+    height: 300px;
+}
